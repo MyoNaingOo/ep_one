@@ -1,0 +1,64 @@
+
+body{
+    background: #d5ecd8 !important;
+    font-family: "Poppins",Arial;
+    justify-content: center;
+}
+
+.know_more_btn{
+    display: block;
+    border: none;
+    outline: none;
+    margin-top: 50px;
+    padding: 10px 20px;
+    color: white;
+    border-radius: 20px;
+    background: linear-gradient(90deg,#0693be,#0ad9e7bd) ;
+}
+.imges{
+    border-radius: 5px;
+    width: 100%;
+    height: 100%;
+    box-shadow:  5px 5px 10px #828282,
+    -5px -5px 10px #828282;
+}
+
+.my-shadow{
+    box-shadow:  20px 20px 60px #bebebe,
+             -20px -20px 60px #ffffff;
+}
+
+.post_type{
+    margin: 20px 20px;
+    font-size: 13px;
+}
+
+/* is include bootstrap row and col-6 */
+
+.row{
+    display: flex;
+}
+.col-6{
+    width: 50%;
+    padding: 10px;
+} 
+.hide{
+    display: none;
+}
+
+.d-block{
+    display: block;
+}
+
+.read-more{
+    font-weight: 100px;
+}
+
+.card{
+    margin: 15px auto;
+    background: #fff;
+    width: 80%;
+    padding: 20px;
+    border-radius: 5px;
+    /* border: 1px solid #555555; */
+}
