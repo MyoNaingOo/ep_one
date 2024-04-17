@@ -1,15 +1,15 @@
  {
-    header_titel: "MyanService",
-    title: "Myanmanr Service",
-    apk_link: "https://flowbite.com/docs/components/carousel/",
-    description: "description of the android  app ",
-    apk_image: "https://news-cdn.softpedia.com/images/news2/ubuntu-19-04-disco-dingo-daily-build-isos-now-available-to-download-523565-4.jpg",
-    images: [
+    "header_titel": "MyanService",
+    "title": "Myanmanr Service",
+    "apk_link": "https://flowbite.com/docs/components/carousel/",
+    "description": "description of the android  app ",
+    "apk_image": "https://news-cdn.softpedia.com/images/news2/ubuntu-19-04-disco-dingo-daily-build-isos-now-available-to-download-523565-4.jpg",
+    "images": [
       "https://news-cdn.softpedia.com/images/news2/ubuntu-19-04-disco-dingo-daily-build-isos-now-available-to-download-523565-4.jpg",
       "https://news-cdn.softpedia.com/images/news2/ubuntu-19-04-disco-dingo-daily-build-isos-now-available-to-download-523565-4.jpg",
       "https://news-cdn.softpedia.com/images/news2/ubuntu-19-04-disco-dingo-daily-build-isos-now-available-to-download-523565-4.jpg",
       "https://news-cdn.softpedia.com/images/news2/ubuntu-19-04-disco-dingo-daily-build-isos-now-available-to-download-523565-4.jpg"
     ],
-    video_link: "https://youtu.be/5SA8k_08TQo?si=qhekqWGRZ3novwNE"
+    "video_link": "https://youtu.be/5SA8k_08TQo?si=qhekqWGRZ3novwNE"
 
   }
